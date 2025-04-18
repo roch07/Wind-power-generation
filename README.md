@@ -1,8 +1,3 @@
-Heck yeah, let’s give it your voice — like *you* wrote it, casual but smart, showing off the work without sounding too robotic. Here's your personal-style `README.md`:
-
----
-
-
 # ⚡ Wind Power Generation Forecasting
 
 This project is all about predicting wind power generation using weather data. I wanted to build something that takes in real-time weather inputs like wind speed, humidity, temperature, and gives you a solid estimate of how much wind energy would be produced.
